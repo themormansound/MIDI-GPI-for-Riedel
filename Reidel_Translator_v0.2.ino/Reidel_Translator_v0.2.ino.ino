@@ -12,6 +12,7 @@
 // USB MIDI object
 Adafruit_USBD_MIDI usb_midi;
 
+// Relay is on pin 4.
 int relay = 4;
 
 // Create a new instance of the Arduino MIDI Library,
