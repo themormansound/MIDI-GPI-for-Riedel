@@ -3,6 +3,7 @@
  * Following library is required
  * - MIDI Library by Forty Seven Effects
  *   https://github.com/FortySevenEffects/arduino_midi_library
+ *   Had some dramas using latest libs/boards, success with Raspberry Pi Pico/RP2040 by Earle F Philhower V3.6.3 and Adafruit TinyUSB V2.3.2
  */
 
 #include <Arduino.h>
